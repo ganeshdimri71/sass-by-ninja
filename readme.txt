@@ -9,3 +9,4 @@ f2782b8 (HEAD -> master) HEAD@{0}: commit: map function in sass
 daf6dd2 (HEAD -> master) HEAD@{0}: commit: generating classes dynamic by each loop
 28eaa4d (HEAD -> master) HEAD@{0}: commit: using if condition
 f332e44 (HEAD -> master) HEAD@{0}: commit: adding hover classes
+3d4f357 (HEAD -> master) HEAD@{0}: commit: making btn classes
