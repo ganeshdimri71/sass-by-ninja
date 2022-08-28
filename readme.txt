@@ -6,3 +6,4 @@ e04a2e1 HEAD@{1}: commit: imports and partials
 bf40074 (HEAD -> master) HEAD@{0}: commit: nested css
 0dc295f (HEAD -> master) HEAD@{0}: commit: simple maths in sass
 f2782b8 (HEAD -> master) HEAD@{0}: commit: map function in sass
+daf6dd2 (HEAD -> master) HEAD@{0}: commit: generating classes dynamic by each loop
