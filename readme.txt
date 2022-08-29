@@ -1,3 +1,11 @@
+echo "# sass-by-ninja" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/ganeshdimri71/sass-by-ninja.git
+git push -u origin master
+
 c25ad8f : Initial Setup
 3a73f4f : Initial Setup 1
 5e7eb65 : Variables
@@ -13,3 +21,4 @@ f332e44 : adding hover classes
 58cbae9 : function
 7433824 : utilities
 fb192a9 : breakpoints
+5329ee4 : grid system part one
